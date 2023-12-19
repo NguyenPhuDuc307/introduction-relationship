@@ -1,6 +1,6 @@
 # Part 8: Introduction to relationships
 
->This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
+>This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two. This guide is compiled based on [Part 7: Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
 
 In this section:
 
@@ -221,4 +221,4 @@ Page Lesson - Delete:
 
 ![Delete](resources/delete.png)
 
-Next let's [File Storage in .NET](https://github.com/NguyenPhuDuc307/file-storage).
+Next let's [Part 9: File Storage in .NET](https://github.com/NguyenPhuDuc307/file-storage).
