@@ -1,4 +1,4 @@
-# Introduction to relationships
+# Part 8: Introduction to relationships
 
 >This document provides a simple introduction to the representation of relationships in object models and relational databases, including how EF Core maps between the two. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
 
