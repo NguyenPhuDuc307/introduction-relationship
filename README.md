@@ -82,7 +82,7 @@ public class Course
     public DateTime ReleaseDate { get; set; }
     public string? Author { get; set; }
 
-    public ICollection<Lesson>? Lessons { get; }
+    public ICollection<Lesson>? Lessons { get; set; }
 }
 ```
 
